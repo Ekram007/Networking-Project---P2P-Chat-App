@@ -36,9 +36,3 @@ User Manual:
 • There is a colour change button which changes the background of both end devices.
 • There is a save button which saves the previous conversation.
 • By pressing the send file button, one can send text(.txt) file.
-
-Poject parts done by each contributors:
-• Md.Ekramul Islam(2016331003):
-  UI design ,text file transfer,background change.
-• Md.Rafsunjani Khan(2016331057):
-  peer to peer connection,conversation save,splash screen.
